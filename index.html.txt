@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Manu</title>
+	<title>svaransh</title>
 	<link rel="style" type="text" href="style.css">
 </head>
 
