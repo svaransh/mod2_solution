@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Manu</title>
-	<link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+	<link rel="style" type="text" href="style.css">
 </head>
 
 <body>
